@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I’m xuejingpan 👋
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuejingpan&show_icons=true&theme=dark&count_private=true)
 

@@ -1,6 +1,6 @@
 ### Hi, I’m xuejingpan 👋
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuejingpan&theme=highcontrast&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuejingpan&theme=dark&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuejingpan&show_icons=true&theme=dark&count_private=true)
 

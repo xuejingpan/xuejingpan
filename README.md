@@ -1,8 +1,10 @@
-### Hi, I’m xuejingpan 👋
+### Hi, welcome to xuejingpan’s github homepage 👋
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuejingpan&theme=dark&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xuejingpan&show_icons=true&theme=dark&count_private=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/xuejingpan&left_color=green&right_color=red)
 
 <!--
 **xuejingpan/xuejingpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

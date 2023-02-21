@@ -9,9 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## 今年汇总 ✨
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xuejingpan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuejingpan&hide_title=true&hide_border=true&layout=compact&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xuejingpan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xuejingpan&left_color=green&right_color=blue)
 

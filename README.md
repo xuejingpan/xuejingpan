@@ -1,6 +1,6 @@
 # Hi, welcome to xuejingpan’s github 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=xuejingpan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true />
+<img src="https://github-readme-stats.vercel.app/api?username=xuejingpan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xuejingpan&left_color=green&right_color=blue)
 

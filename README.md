@@ -2,6 +2,8 @@
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xuejingpan&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21" />
 
+![contributions](https://cdn.jsdelivr.net/gh/xuejingpan/xuejingpan@main/assets/github-contribution-grid-snake.svg)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xuejingpan&left_color=green&right_color=blue)
 
 <!--

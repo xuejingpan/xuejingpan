@@ -1,6 +1,6 @@
 # Hi, welcome to my github 👋
 
-### My GitHub Stats
+<!-- ### My GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=xuejingpan&hide_title=true&hide_border=true&show_icons=true" />
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=xuejingpan&hide_title=true&hide_border=true&show_icons=true&theme=transparent) -->
 
